@@ -3,3 +3,6 @@ flaskapp   1/1     Running   0          2m30s
 Forwarding from 127.0.0.1:8000 -> 80
 Forwarding from [::1]:8000 -> 80
 Handling connection for 8000
+
+[2020-05-11 06:48:28,874] INFO in app: output prediction: [20.35373177134412]
+127.0.0.1 - - [11/May/2020 06:48:28] "POST /predict HTTP/1.1" 200 -
